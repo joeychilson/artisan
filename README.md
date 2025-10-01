@@ -2,6 +2,10 @@
 
 An AI-powered conversational media generation app.
 
+<p align="center">
+  <img src=".github/screenshots/homepage.png" alt="Artisan Homepage" width="600">
+</p>
+
 ## Setup
 
 Copy `.env.example` to `.env` and add your API keys:
